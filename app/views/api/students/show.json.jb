@@ -1,0 +1,12 @@
+{first_name: @student.first_name,
+last_name: @student.last_name,
+email: @student.email,
+phone_number: @student.phone_number,
+bio: @student.bio,
+linkedin: @student.linkedin,
+twitter: @student.twitter,
+personal_url: @student.personal_url,
+resume_url: @student.resume_url,
+github_url: @student.github_url,
+photo: @student.photo
+}
